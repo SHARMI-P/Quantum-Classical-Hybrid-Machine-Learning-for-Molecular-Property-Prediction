@@ -1,0 +1,8 @@
+Model,Type,MAE,RMSE,R²,Train Time (s)
+Random Forest,Classical,0.3594,0.4304,0.4709,0.2444
+Hybrid Q-C (RF),Hybrid Q-C,0.3589,0.4328,0.4651,0.2565
+Neural Network (MLP),Classical,0.3508,0.4353,0.4588,0.2959
+Hybrid Q-C (Ridge),Hybrid Q-C,0.3532,0.4412,0.4442,0.0421
+Hybrid Q-C (GBT),Hybrid Q-C,0.3666,0.4425,0.4408,0.1736
+Gradient Boosting,Classical,0.3718,0.4426,0.4404,0.2224
+Ridge Regression,Classical,0.3652,0.4587,0.399,0.0909

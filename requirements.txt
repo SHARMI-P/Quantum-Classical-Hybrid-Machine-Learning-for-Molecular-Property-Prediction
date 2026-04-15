@@ -1,0 +1,8 @@
+numpy>=1.24
+pandas>=1.5
+scikit-learn>=1.2
+matplotlib>=3.7
+# Optional but recommended:
+# rdkit-pypi>=2022.9     # or: conda install -c conda-forge rdkit
+# pennylane>=0.35        # quantum simulator
+# torch>=2.0             # for GPU-accelerated VQC via pennylane-torch

@@ -1,0 +1,13 @@
+{
+  "best_classical": "ElasticNet",
+  "best_hybrid": "Hybrid Q-C (Ridge)",
+  "t_stat": 1.616998651900226,
+  "t_pval": 0.18118587475419012,
+  "w_stat": 2.0,
+  "w_pval": 0.1875,
+  "cohens_d": 0.8084992828594653,
+  "rmse_improvement_ev": 0.0015169675123844484,
+  "rmse_improvement_kcal": 0.034982636106346526,
+  "rmse_improvement_pct": 0.42860222210742954,
+  "significant": false
+}

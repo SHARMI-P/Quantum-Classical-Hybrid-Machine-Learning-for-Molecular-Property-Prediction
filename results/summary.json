@@ -1,0 +1,10 @@
+{
+  "target": "homo",
+  "n_train": 320,
+  "n_test": 80,
+  "best_classical": "Random Forest",
+  "best_classical_rmse": 0.4304119638065024,
+  "best_hybrid": "Hybrid Q-C (RF)",
+  "best_hybrid_rmse": 0.43276113969054225,
+  "improvement_pct": -0.55
+}
